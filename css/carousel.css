@@ -1,0 +1,48 @@
+h5 {
+    font-size: 1.75em;
+    text-shadow: 2px 1px rgba(0, 0, 0, 0.6);
+    margin: 2px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.carousel-caption {
+    right: 0%;
+    left: 0%;
+    bottom: 2%;
+    padding: 5px;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.carousel-control-next-icon {
+    padding: 15px;
+}
+
+.carousel-control-next-icon:hover {
+    border: solid 3px paleturquoise;
+    border-radius: 50px;
+}
+
+.carousel-control-prev-icon:hover {
+    border: solid 3px paleturquoise;
+    border-radius: 50px;
+}
+
+.carousel-control-prev-icon {
+    padding: 15px;
+}
+
+
+
+
+.carousel-indicators {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+li.active {
+    background-color: paleturquoise;
+}
